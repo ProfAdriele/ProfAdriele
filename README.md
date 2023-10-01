@@ -1,7 +1,7 @@
 - 👋 Boas Vindas ao meu perfil! @ProfAdriele 🌻
-- Sou Adriele 🤓
+- Sou **Adriele** 🤓
 - Estou estudando na Alura 📚
-- Utilizarei esse esoaço para minha organização e compartilhamento de projetos 🖋️
+- Utilizarei esse espaço para minha organização e compartilhamento de projetos 🖋️
 - 📫 How to reach me ...
 
 <!---
